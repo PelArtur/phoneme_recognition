@@ -9,3 +9,4 @@ datasets==3.5.0
 torch==2.6.0
 jiwer==3.1.0
 accelerate==1.5.2
+transformers==4.50.3

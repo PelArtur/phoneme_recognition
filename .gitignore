@@ -173,3 +173,6 @@ cython_debug/
 #Datasets
 timit/
 timit.zip
+
+#another dirs
+results/
